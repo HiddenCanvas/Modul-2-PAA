@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Build
+*.dll
+*.exe
+
+# OS
+Thumbs.db
+.DS_Store
